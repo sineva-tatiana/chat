@@ -1,2 +1,2 @@
 # chat on 10000 connections
-This is a test task, С++
+This is a test task
